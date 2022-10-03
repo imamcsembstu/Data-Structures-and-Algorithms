@@ -20,8 +20,5 @@ if __name__ == "__main__":
     print(binary_search(l, 22))
 
 
-"""
-Time Complexity: O(logn)
-Space Complexity: O(1)
-
-"""
+#  Time Complexity: O(logn)
+#  Space Complexity: O(1)

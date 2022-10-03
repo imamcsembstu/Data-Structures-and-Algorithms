@@ -10,7 +10,5 @@ if __name__ == "__main__":
     l=[23,3,5,7,11,4,55,9]
     print(linear_search(l,1))
 
-"""
-Time Complexity: O(n)
-Space Complexity: O(1)
-"""
+# Time Complexity: O(n)
+# Space Complexity: O(1)
