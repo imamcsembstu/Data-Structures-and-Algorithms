@@ -17,7 +17,9 @@ def binary_search(sorted_list, number_to_find):
 
 if __name__ == "__main__":
     l=[2,7,11,19,22,35,48,111]
-    print(binary_search(l, 22))
+    snumber = 22
+    print("\nSorted_List: ", l, "\nNumber_to_find: ", snumber)
+    print("Position of this number: ", (binary_search(l, snumber)))
 
 
 #  Time Complexity: O(logn)
