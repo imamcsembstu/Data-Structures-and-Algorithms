@@ -14,7 +14,7 @@ if __name__ == "__main__":
     L_i_s_t = [11, 2, 3, 54, 32, 12, 2]
     print("\nBefore_Sort: ", L_i_s_t ) 
     selection_sort(L_i_s_t )
-    print("\nAfter_selection: ", L_i_s_t )
+    print("\nAfter_Selection_Sort: ", L_i_s_t )
 
 # Time Complexity: O(n^2)
 # Space Complexity: O(1)
